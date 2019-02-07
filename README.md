@@ -19,4 +19,19 @@ The inputs are as follows
 The output is as follow
 
 - Y= house price of unit area (10000 New Taiwan Dollar/Ping, where Ping is a local unit, 1 Ping = 3.3 meter squared)
-Reference here.
+
+
+### IDE:
+JupyterLab 0.32.1
+Libraries required:
+NumPy
+IPython
+Pandas
+Matplotlib
+Matplotlib.gridspec
+Datetime
+sklearb.model
+
+
+### Author:
+Mouhameth Takha Faye
