@@ -23,15 +23,15 @@ The output is as follow
 
 ### IDE:
 JupyterLab 0.32.1
-Libraries required:
-NumPy
-IPython
-Pandas
-Matplotlib
-Matplotlib.gridspec
-Datetime
-sklearb.model
 
+### Libraries required:
+- NumPy
+- IPython
+- Pandas
+- Matplotlib
+- Matplotlib.gridspec
+- Datetime
+- sklearn.model
 
 ### Author:
 Mouhameth Takha Faye
